@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/aonontojahan/JavaScript-Learning/issues"
   },
-  "homepage": "https://github.com/aonontojahan/JavaScript-Learning#readme"
+  "homepage": "https://github.com/aonontojahan/JavaScript-Learning#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
