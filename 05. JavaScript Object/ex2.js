@@ -9,6 +9,7 @@ let student = {
 };
 
 const { id, name, department, age, marks } = student;
+
 console.log(id, name, department, age, marks);
 console.log(id);
 console.log(name);
