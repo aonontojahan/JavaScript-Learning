@@ -1,4 +1,4 @@
-const { student } = require("./ex3.js");
+import { student } from "./ex3.js";
 
 const { id, name, department, age, marks } = student;
 console.log(id, name, department, age, marks);

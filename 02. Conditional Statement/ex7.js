@@ -1,7 +1,5 @@
-
-// Learning Switch Statement in JavaScript
-
-const prompt = require('prompt-sync')();
+import createPrompt from 'prompt-sync';
+const prompt = createPrompt();
 
 console.log(
     "1. Check Balance\n" +

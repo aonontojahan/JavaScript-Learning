@@ -1,6 +1,7 @@
 // Learning foreach loop and switch case statements in JavaScript
 
-const prompt = require('prompt-sync')();
+import createPrompt from 'prompt-sync';
+const prompt = createPrompt();
 
 // Student Database
 const students = [

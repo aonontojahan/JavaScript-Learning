@@ -1,0 +1,18 @@
+[
+
+    {
+        "id": 21103030,
+        "name": "Aononto Jahan",
+        "department": "CSE",
+        "age": 22,
+        "marks": 85
+    },
+
+    {
+        "id": 21103031,
+        "name": "John Doe",
+        "department": "EEE",
+        "age": 21,
+        "marks": 90
+    }
+]

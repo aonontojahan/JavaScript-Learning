@@ -1,6 +1,7 @@
 // Learning how to find the sum of numbers in an array using forEach loop in JavaScript
 
-const prompt = require('prompt-sync')();
+import createPrompt from 'prompt-sync';
+const prompt = createPrompt();
 let number = parseInt(prompt("Enter the number: "));
 
 let sum = 0;

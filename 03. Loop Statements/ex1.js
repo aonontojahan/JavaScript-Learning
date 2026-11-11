@@ -1,7 +1,8 @@
 // Learn looping in javascript
 // Check the number is prime or not using for loop
 
-const prompt = require('prompt-sync')();
+import createPrompt from 'prompt-sync';
+const prompt = createPrompt();
 
 let num = parseInt(prompt("Enter a number: "));
 

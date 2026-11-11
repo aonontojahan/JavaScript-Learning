@@ -1,7 +1,5 @@
-
-// Day Type Checker Using Switch Statement
-
-const prompt = require('prompt-sync')();
+import createPrompt from 'prompt-sync';
+const prompt = createPrompt();
 
 // Take input from the user
 let day = prompt("Enter a day of the week: ");

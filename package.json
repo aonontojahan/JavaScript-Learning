@@ -13,12 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/aonontojahan/JavaScript-Learning/issues"
   },
   "homepage": "https://github.com/aonontojahan/JavaScript-Learning#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "prompt-sync": "^4.2.0"
   }
 }
