@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/aonontojahan/JavaScript-Learning#readme",
   "dependencies": {
+    "dotenv": "^18.0.10",
     "fs": "^0.0.1-security",
     "prompt-sync": "^4.2.0"
   }
